@@ -1,0 +1,31 @@
+{
+    "name" : "voxel-world-function",
+    "version": "0.0.0",
+    "description" : "voxel world generation sandbox thingy",
+    "main" : "index.js",
+    "dependencies" : {
+      "voxel": "0.0.9",
+      "voxel-engine": "0.2.3",
+      "toolbar": "0.0.2"
+    },
+    "devDependencies" : {
+      "browserify" : "~1.17.1"
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "git://github.com/maxogden/voxel-world-function.git"
+    },
+    "homepage" : "https://github.com/maxogden/voxel-world-function",
+    "keywords" : [
+        "voxel",
+        "game",
+        "webgl",
+        "three.js"
+    ],
+    "author" : {
+        "name" : "Max Ogden",
+        "email" : "max@maxogden.com",
+        "url" : "http://maxogden.com"
+    },
+    "license" : "MIT"
+}
